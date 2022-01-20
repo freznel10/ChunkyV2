@@ -1,0 +1,32 @@
+Comment,Designator,Footprint,LCSC Part #
+"Buzzer Buzzer, polarized",BZ1,Piezo-KLJ-1625,C201041
+"1uF Unpolarized capacitor, small symbol","C1,C2,C3,C4,C5",C-0805_2012Metric,C2859121
+1N4148 Diode,"D1,D2,D3,D4,D5",D_SOD-123,C108804
+D ,"D6,D7,D8,D9,D10,D11,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41",D_SOD-123,C108804
+SMF5.0CA Bidirectional transient-voltage-suppression diode,D12,D_SOD-123,C320548
+Drill Mountpoint Mounting Hole with connection,"DRILL1,DRILL3,DRILL4,DRILL5,DRILL7",MountingHole_3.2mm_M3_Pad_Via,
+Drill Mountpoint Mounting Hole with connection,"DRILL2,DRILL6,DRILL8,DRILL9,DRILL10,DRILL11,DRILL12,DRILL13",MountingHole_2.2mm_M2_DIN965_Pad,
+"3.0A 1206 Polyfuse Resettable fuse, polymeric positive temperature coefficient",F1,Fuse_1206_3216Metric,C553935
+4A/0805 ,"FB1,FB2,FB3,FB4,FB5,FB6,FB7,FB8,FB9,FB10,FB11,FB12,FB13,FB14,FB15",L-0805_2012Metric,C370576
+Hole ,H1,SK8707,
+5Way-Tactile_K1-1506DN-01 ,HAT1,5Way-K1-1506DN-01,
+OLED ,J1,128x64OLED,
+"Conn_01x12_Female Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",J4,FPC-SMD_FPC05012-09200-.5mm,C479750
+HRO-TYPE-C-31-M-12-HandSoldering-NoSBU USB 2.0-only Type-C Receptacle connector,J5,HRO-TYPE-C-31-M-12-HandSoldering-NoSBU,C165948
+"Jumper_NO_Small Jumper, normally open, small symbol","JP1,JP2,JP3,JP4,JP5,JP6,JP7,JP8,JP9,JP10,JP13,JP14,JP17,JP18,JP19,JP20,JP21,JP22,JP23,JP24",SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,
+"Jumper_NO_Small Jumper, normally open, small symbol","JP15,JP16",SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,
+"JU1 Solder Jumper, 3-pole, open",JP25,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,
+"JU2 Solder Jumper, 3-pole, open",JP26,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,
+"AO3401A -4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23","Q1,Q2",SOT-23-3,C306862
+4.7k Resistor,"R1,R2,R9",R-0805_2012Metric,C269733
+10k Resistor,"R3,R4,R5,R10",R-0805_2012Metric,C269724
+5.1k Resistor,"R6,R7,R8",R-0805_2012Metric,C269736
+SW_PUSH_LED ,"SW1,SW3,SW7,SW9,SW12,SW14,SW16,SW17,SW19,SW21,SW22,SW24,SW26,SW27,SW29,SW31,SW32,SW34",Choc_Hotswap_SK6812MiniE-FBS-rot,
+SW_PUSH_LED ,"SW2,SW4,SW6,SW8,SW10,SW11,SW13,SW15,SW18,SW20,SW23,SW25,SW28,SW30,SW33,SW35",Choc_Hotswap_SK6812MiniE-FBS,
+Rotary_Encoder_Switch ,SW5,EVQWGD001-reversible,
+SW_SPST Single Pole Single Throw (SPST) switch,SW36,SMD_Tacticle_Switch_TS24CA_flipable-TEN,C393942
+PIM447 ,U1,pimoroni-trackballl-bommod,
+U1 WeAct STM32F401/411 Black Pill ; not KLC compliant ; SWD broken out,U3,Blackpill_copy,
+"AZC199-04S Very low capacitance ESD protection diode, 4 data-line, SOT-23-6",U4,SOT-23-6,C2901321
+"LMV321 Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOT-23-5/SC-70-5",U5,SOT-23-5,C395459
+USB-C-2.0 USB 2.0-only Type-C Receptacle connector,USB1,HRO-TYPE-C-31-M-12-HandSoldering-NoSBU,C165948
