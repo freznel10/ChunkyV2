@@ -1,0 +1,28 @@
+Comment,Designator,Footprint,LCSC Part #
+0u1 Unpolarized capacitor,"C1,C2,C3,C4,C5,C10",C_0603_1608Metric,C83054
+4u7 Unpolarized capacitor,C6,C_0603_1608Metric,C69182
+22p Unpolarized capacitor,"C7,C8",C_0603_1608Metric,C107451
+1u Unpolarized capacitor,C9,C_0603_1608Metric,C83059
+"2.2u Polarized capacitor, small symbol",C11,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C49217
+D_Schottky Schottky diode,D1,D_SOD-123,C2920035
+LED Light emitting diode,D2,LED_0603_1608Metric,C138547
+Drill Mountpoint Mounting Hole with connection,"DRILL1,DRILL2,DRILL14,DRILL15,DRILL16,DRILL17",MountingHole_3.2mm_M3_Pad_Via,
+Drill Mountpoint Mounting Hole with connection,"DRILL3,DRILL5,DRILL6,DRILL7,DRILL8,DRILL9,DRILL12,DRILL13",MountingHole_2.2mm_M2_DIN965_Pad,
+Drill Mountpoint Mounting Hole with connection,"DRILL4,DRILL10,DRILL11",MountingHole_3.2mm_M3_Pad_Via,
+"Polyfuse_Small Resettable fuse, polymeric positive temperature coefficient, small symbol",F1,Fuse_1206_3216Metric,C99561
+Hole ,H1,SK8707,
+FFC3B11-12-T ,J1,GCT_FFC3B11-12-T,
+"01x02 Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,Pins2,
+"01x12 Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)","J3,J4",Pins12,
+"01x05 Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",J5,Pins5,
+RAW ,JP1,SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,
+USB_C_Receptacle_USB2.0 USB 2.0-only Type-C Receptacle connector,P1,USB-C-C168688,C168688
+5k1 Resistor,"R1,R2",R_0603_1608Metric,C328432
+10k Resistor,R3,R_0603_1608Metric,C269701
+22 Resistor,"R4,R5",R_0603_1608Metric,C325646
+1k Resistor,R6,R_0603_1608Metric,
+4.7 Resistor,"R7,R8",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+100k Resistor,R9,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C478884
+SW_PUSH ,SW1,SMD_Tacticle_Switch_TS24CA_flipable,
+ATmega32U4 ,U1,QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm,C45874
+"16MHz Four pin crystal, GND on pins 2 and 4",X1,Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm,C70562

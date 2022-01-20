@@ -1,0 +1,15 @@
+﻿Name,Component,Package,Value,Qty,,
+"C1-C5, C10",Capacitor,603,100nF,6,C694249,
+C6,Capacitor,603,4.7uF,1,C2857987,
+"C7, C8",Capacitor,603,22pF,2,C308791,
+C9,Capacitor,603,1uF,1,C2857985,
+D1,Schottky,SOD-123,<.5VF,1,C2920035,
+D2,LED,603,Any colour,1,,
+F1,Polyfuse,1206,>=500mA,1,,
+P1,USB C Female,C168688,,1,ok,
+"R1, R2",Resistor,603,5.1k,2,ok,
+R3,Resistor,603,10k,1,ok,
+"R4, R5",Resistor,603,22R,2,C881386,ok
+R6,Resistor,603,1k,1,ok,
+U1,Atmega32U4-MU(R),QFN,-,1,5,ok
+X1,Crystal,3225,16MHz,1,C13738,ok
